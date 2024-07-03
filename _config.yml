@@ -1,0 +1,54 @@
+# Site settings
+title: "Curso de formação M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint"
+description: "Material e recursos complementares da formação ministrada por Ricardo Cabral do curso M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint."
+url: "https://m365sharepointpt.rramoscabral.com/" 
+repository: rramoscabral/M365SharePointPT
+theme: just-the-docs
+
+# Aux links for the upper right navigation
+aux_links:
+  "Material e recursos complementares da formação ministrada por Ricardo Cabral do curso M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint.": 
+    - "https://m365sharepointpt.rramoscabral.com/"
+
+# Color scheme
+color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# CODE
+enable_copy_code_button: true
+
+# Footer content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Material e recursos complementares da formação ministrada por Ricardo Cabral."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+
+# Ruby Markdown-superset converter
+kramdown:
+syntax_highlighter_opts:
+  block:
+    line_numbers: true
