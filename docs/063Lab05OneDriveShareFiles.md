@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Partilhar ficheiros do OneDrive"
+title: 'Exercício: Partilhar ficheiros do OneDrive'
 nav_order: 6.3
 has_children: false
+parent: 'OneDrive'
 ---
 
 # Exercício: Partilhar ficheiros do OneDrive

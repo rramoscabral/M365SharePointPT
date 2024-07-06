@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Conectores do Power Automate
+title: 'Conectores do Power Automate'
 nav_order: 9.1
 has_children: false
+parent: 'Power Automate'
 ---
 
 # Conectores do Power Automate

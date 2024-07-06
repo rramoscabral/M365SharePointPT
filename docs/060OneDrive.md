@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Exercício: Criar site de equipa do SharePoint"
+title: 'OneDrive'
 nav_order: 6
 has_children: true
 ---
 
-# Lab 01: 
+# OneDrive
 {: .no_toc }
 
 

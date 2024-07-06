@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Criar site de equipa do SharePoint"
+title: 'Exercício: Criar site de equipa do SharePoint'
 nav_order: 3.2
 has_children: false
+parent: 'SharePoint'
 ---
 
 # Exercício: Criar site de equipa do SharePoint

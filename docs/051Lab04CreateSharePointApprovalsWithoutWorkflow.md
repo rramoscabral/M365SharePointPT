@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Aprovações do SharePoint sem fluxo de trabalho"
+title: 'Exercício: Aprovações do SharePoint sem fluxo de trabalho'
 nav_order: 5.1
 has_children: false
+parent: 'Aprovações do SharePoint sem fluxo de trabalho'
 ---
 
 # Exercício: Aprovações do SharePoint sem fluxo de trabalho

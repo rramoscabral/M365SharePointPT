@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Restrições e limitações do SharePoint
+title: 'Restrições e limitações do SharePoint'
 nav_order: 6.2
 has_children: false
+parent: 'OneDrive'
 ---
 
 # Restrições e limitações do SharePoin

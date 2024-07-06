@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Power Automate
+title: 'Power Automate'
 nav_order: 9
 has_children: true
 ---

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Adicionar SharePoint no Teams"
+title: 'Exercício: Adicionar SharePoint no Teams'
 nav_order: 7.2
 has_children: false
+parent: 'Microsoft Teams'
 ---
 
 # Exercício: Adicionar SharePoint no Teams

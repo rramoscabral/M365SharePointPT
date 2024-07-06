@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Guarde uma resposta do Microsoft Forms no SharePoint List."
+title: 'Exercício: Guarde uma resposta do Microsoft Forms no SharePoint List'
 nav_order: 9.3
 has_children: false
+parent: 'Power Automate'
 ---
 
 #  Exercício: Guarde uma resposta do Microsoft Forms no SharePoint List.

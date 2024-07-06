@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Sincronize as bibliotecas do SharePoint com o seu computador
+title: 'Sincronize as bibliotecas do SharePoint com o seu computador'
 nav_order: 4.2
 has_children: false
+parent: 'Biblioteca SharePoint'
 ---
 
 # Sincronize as bibliotecas do SharePoint com o seu computador

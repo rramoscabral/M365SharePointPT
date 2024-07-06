@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Criar uma biblioteca SharePoint"
+title: 'Exercício: Criar uma biblioteca SharePoint'
 nav_order: 4.1
 has_children: false
+parent: 'Biblioteca SharePoint'
 ---
 
 # Exercício: Criar uma biblioteca SharePoint 

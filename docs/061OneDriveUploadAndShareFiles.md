@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Carregar e partilhar ficheiros do OneDrive
+title: 'Carregar e partilhar ficheiros do OneDrive'
 nav_order: 6.1
 has_children: false
+parent: 'OneDrive'
 ---
 
 # Carregar e partilhar ficheiros do OneDrive 

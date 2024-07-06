@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Exercício: Integrar um formulário do Microsoft Forms no SharePoint"
+title: 'Exercício: Integrar um formulário do Microsoft Forms no SharePoint'
 nav_order: 8.3
 has_children: false
+parent: 'Microsoft Forms'
 ---
 
 # Laboratório 08: Integrar um formulário do Microsoft Forms no SharePoint

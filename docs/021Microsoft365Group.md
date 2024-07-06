@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Grupos existentes no Microsoft 365
+title: 'Grupos existentes no Microsoft 365'
 nav_order: 2.1
 has_children: false
+parent: 'Microsoft 365'
 ---
 
 # Grupos existentes no Microsoft 365

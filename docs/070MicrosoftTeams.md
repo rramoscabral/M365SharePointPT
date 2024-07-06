@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft Teams
+title: 'Microsoft Teams'
 nav_order: 7
 has_children: true
 ---

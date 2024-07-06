@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biblioteca SharePoint
+title: 'Biblioteca SharePoint'
 nav_order: 4
 has_children: true
 ---

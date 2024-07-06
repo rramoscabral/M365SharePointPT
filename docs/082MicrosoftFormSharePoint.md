@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Microsoft Forms no SharePoint
+title: 'Microsoft Forms no SharePoint'
 nav_order: 8.2
 has_children: false
+parent: 'Microsoft Forms'
 ---
 
 # Microsoft Forms no SharePoint

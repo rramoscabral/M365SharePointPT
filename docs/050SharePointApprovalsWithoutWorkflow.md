@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aprovações do SharePoint sem fluxo de trabalho
+title: 'Aprovações do SharePoint sem fluxo de trabalho'
 nav_order: 5
 has_children: true
 ---

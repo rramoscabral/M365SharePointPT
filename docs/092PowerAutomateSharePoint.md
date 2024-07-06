@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Power Automate com SharePoint
+title: 'Power Automate com SharePoint'
 nav_order: 9.2
 has_children: false
+parent: 'Power Automate'
 ---
 
 # Power Automate com SharePoint

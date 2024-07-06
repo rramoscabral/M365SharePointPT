@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft 365
+title: 'Microsoft 365'
 nav_order: 2
 has_children: true
 ---
