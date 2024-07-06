@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Criar site de equipa do SharePoint"
 nav_order: 3.2
-has_children: true
+has_children: false
 ---
 
 # Exercício: Criar site de equipa do SharePoint

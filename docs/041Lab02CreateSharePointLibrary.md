@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Criar uma biblioteca SharePoint"
 nav_order: 4.1
-has_children: true
+has_children: false
 ---
 
 # Exercício: Criar uma biblioteca SharePoint 

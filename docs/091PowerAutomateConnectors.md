@@ -2,7 +2,7 @@
 layout: default
 title: Conectores do Power Automate
 nav_order: 9.1
-has_children: true
+has_children: false
 ---
 
 # Conectores do Power Automate

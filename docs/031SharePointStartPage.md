@@ -2,7 +2,7 @@
 layout: default
 title: Página inicial do SharePoint
 nav_order: 3.1
-has_children: true
+has_children: false
 ---
 
 # Página inicial do SharePoint

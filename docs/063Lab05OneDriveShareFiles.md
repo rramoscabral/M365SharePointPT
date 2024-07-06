@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Partilhar ficheiros do OneDrive"
 nav_order: 6.3
-has_children: true
+has_children: false
 ---
 
 # Exercício: Partilhar ficheiros do OneDrive

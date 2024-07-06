@@ -2,7 +2,7 @@
 layout: default
 title: Restrições e limitações do SharePoint
 nav_order: 6.2
-has_children: true
+has_children: false
 ---
 
 # Restrições e limitações do SharePoin

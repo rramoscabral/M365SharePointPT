@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Sincronizar biblioteca de documentos do SharePoint"
 nav_order: 4.3
-has_children: true
+has_children: false
 ---
 
 # Exercício: Sincronizar biblioteca de documentos do SharePoint

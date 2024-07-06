@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Aprovações do SharePoint sem fluxo de trabalho"
 nav_order: 5.1
-has_children: true
+has_children: false
 ---
 
 # Exercício: Aprovações do SharePoint sem fluxo de trabalho

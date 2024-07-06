@@ -2,7 +2,7 @@
 layout: default
 title: Microsoft Forms no SharePoint
 nav_order: 8.2
-has_children: true
+has_children: false
 ---
 
 # Microsoft Forms no SharePoint

@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Adicionar SharePoint no Teams"
 nav_order: 7.2
-has_children: true
+has_children: false
 ---
 
 # Exercício: Adicionar SharePoint no Teams

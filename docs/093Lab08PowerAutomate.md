@@ -2,7 +2,7 @@
 layout: default
 title: "Exercício: Guarde uma resposta do Microsoft Forms no SharePoint List."
 nav_order: 9.3
-has_children: true
+has_children: false
 ---
 
 #  Exercício: Guarde uma resposta do Microsoft Forms no SharePoint List.

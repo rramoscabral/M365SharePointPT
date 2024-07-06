@@ -2,7 +2,7 @@
 layout: default
 title: Equipas no Microsoft Teams
 nav_order: 7.1
-has_children: true
+has_children: false
 ---
 
 # Equipas no Microsoft Teams
