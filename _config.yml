@@ -37,9 +37,9 @@ enable_copy_code_button: true
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "De volta ao topo"
 
-footer_content: "Material e recursos complementares da formação ministrada por Ricardo Cabral."
+footer_content: "Material e recursos complementares da formação ministrada por [Ricardo Cabral](https://www.rramoscabral.com)."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
