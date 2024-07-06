@@ -5,19 +5,16 @@ nav_order: 1
 ---
 
 
-# Material e recursos complementares para formação M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint
-
 Material e recursos complementares da formação ministrada por [**Ricardo Cabral**](https://www.rramoscabral.com) do curso M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint.
 
 
 <br/>
 
-O curso *M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint* destina-se a utilzadores do SharePoint Online do Microsoft 365 que tirem partido de partilhas, permissões e criação de sites.
+O curso **M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint** destina-se a utilzadores do SharePoint Online do Microsoft 365 que tirem partido de partilhas, permissões e criação de sites.
 
 | Autor/Editor    |  Nível            | Produto                   | Função                   | Duração do curso | 
 | ---             | ---               | ---                       | ---                      | ---              |
 | Ricardo Cabral  | Intermediate      | Microsoft 365 SharePoint  | Utilizador de SharePoint | 4 horas          |
-
 
 
 <br/>
@@ -71,7 +68,7 @@ Depois de concluírem este curso, os alunos serão capazes de utilizar o SharePo
 
 <br/>
 
-**You can follow me at:**
+**Pode me seguir em:**
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rrcabral">
