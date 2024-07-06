@@ -1,5 +1,5 @@
 # Site settings
-title: "Colaboração e Partilha com SharePoint Online"
+title: "Formação M365SharePointPT"
 description: "Material e recursos complementares da formação ministrada por Ricardo Cabral do curso M365SharePointPT: Colaboração e Partilha entre Utilizadores com Microsoft 365 SharePoint."
 url: "https://m365sharepointpt.rramoscabral.com/" 
 repository: rramoscabral/M365SharePointPT
@@ -39,7 +39,7 @@ enable_copy_code_button: true
 back_to_top: true
 back_to_top_text: "De volta ao topo"
 
-footer_content: "Material e recursos complementares da formação ministrada por [Ricardo Cabral](https://www.rramoscabral.com)."
+footer_content: "Material e recursos complementares da formação ministrada por Ricardo Cabral."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
