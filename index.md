@@ -32,7 +32,7 @@ Depois de concluírem este curso, os alunos serão capazes de utilizar o SharePo
 <a id="othergeneraltraining" />
 
 
-# Material complementar e recursos para outras formações ministradas por [Ricardo Cabral](https://www.rramoscabral.com)
+# Material complementar e recursos para outras formações ministradas por Ricardo Cabral
 
 **Artificial intelligence (AI)**
 - [AI-050: Develop Generative AI Solutions with Azure OpenAI Service](https://ai-050.rramoscabral.com/)
